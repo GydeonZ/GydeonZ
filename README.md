@@ -42,11 +42,24 @@ Sedang memperdalam Laravel agar menjadi seorang **Fullstack Developer**.
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GydeonZ&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GydeonZ&layout=compact&theme=tokyonight"/>
-</p>
+## 🔥 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=GydeonZ&theme=tokyonight-duo&hide_border=true&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
+
+![GitHub Stats](https://github-readme-stats-xi-sable.vercel.app/api?username=GydeonZ&layout=compact&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=percentile&include_all_commits=true&card_width=500)
+
+---
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats-xi-sable.vercel.app/api/top-langs/?username=GydeonZ&layout=compact&theme=tokyonight&hide_border=true&card_width=500&langs_count=8)
+
+---
+
+## 📈 Contribution Activity
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GydeonZ&theme=tokyo-night&hide_border=true&area=true&line=ff3068&point=ffffff)
+
 
 ---
 
@@ -56,8 +69,8 @@ Sedang memperdalam Laravel agar menjadi seorang **Fullstack Developer**.
 ---
 
 ## ✨ Quotes
-> _"He who has a why to live can bear almost any how."_  
-> — *Inspirasi Stoicism* 🗿
+> _"He who has a why to live can bear almost any how."_
+>_"Those who come after."_
 
 ---
 
