@@ -70,7 +70,7 @@ Sedang memperdalam Laravel agar menjadi seorang **Fullstack Developer**.
 
 ## ✨ Quotes
 > _"He who has a why to live can bear almost any how."_
->_"Those who come after."_
+> — *For those who come after*
 
 ---
 
