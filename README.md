@@ -69,8 +69,7 @@ Sedang memperdalam Laravel agar menjadi seorang **Fullstack Developer**.
 ---
 
 ## ✨ Quotes
-> _"He who has a why to live can bear almost any how."_
-> — *For those who come after*
+> _"You have power over your mind, not outside events. Realize this, and you will find strength"_
 
 ---
 
